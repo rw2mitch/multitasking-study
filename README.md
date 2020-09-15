@@ -8,4 +8,4 @@ Since the experiment was made for deployment on Mechanical Turk, I included a nu
 
 Moreover, the program ensures that participants are only able to see instructions related to their assigned condition, even if they refresh the page.
 
-This task is the first I have written without the crutch of the JsPsych library. It has allowed me to learn a lot about how HTML, CSS, and JavaScript work, and I look forward to writing more polished and efficient code in the future.
+This task is the first I have written without the crutch of the JsPsych library. It has allowed me to learn a lot about how HTML, CSS, and JavaScript work, and the most interesting challenge was making it smart enough to know when the participant finds a word in the wordsearch. Now that I know more about JavaScript development, I look forward to writing more polished and efficient code in the future.
