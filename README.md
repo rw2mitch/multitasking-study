@@ -5,6 +5,7 @@ Since the experiment was made for deployment on Mechanical Turk, I included a nu
 <li>leaves the window to look up answers</li>
 <li>refreshes or exits the page</lie>
 <li>randomly guesses words too many times</lie>
+
 Moreover, the program ensures that participants are only able to see instructions related to their assigned condition, even if they refresh the page.
 
 This task is the first I have written without the crutch of the JsPsych library. It has allowed me to learn a lot about how HTML, CSS, and JavaScript work, and I look forward to writing more polished and efficient code in the future.
